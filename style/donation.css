@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.btn-primary{
+    background-color: #FF5733;
+    border: 0;
+    border-radius: 10px;
+    padding: 15px 20px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 900;
+
+    
+}
+
+.header-area{
+    text-align: center;
+    padding: 200px 200px;
+}
+
+header{
+    background-image:
+    linear-gradient(to bottom, rgba(53, 56, 71, 0.52), rgba(97, 44, 84, 0.73)),
+    url('../images/donation1.jpg');
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.header-title{
+    padding-bottom: 20px;
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.header-description{
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+main{
+   
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+
+.donate-today-container{
+    
+    text-align: center;
+}
+
+.donate{
+    display: flex;
+    justify-content: space-around;
+    
+    }
+
+.donate-today{
+    padding: 50px;
+}
+
+.donate-title, .donate-description{
+    padding-bottom: 30px;
+
+}
+
+.first,.second,.third,.fourth,.fifth{
+    
+    padding: 40px 40px;
+    background: white;
+    box-shadow: 5px 10px 8px #888888;
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 20px;
+}
+
+.donate .second{
+    background-color: burlywood;
+    color: red;
+
+}
+
+.input-field input{
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 20px;
+
+}
+
+.donate-plan{
+    text-align: center;
+    padding: 100px;
+}
+
+.plan-title, .plan-description{
+    margin-bottom: 20px;
+    
+}
+
+.donate-plan-parentnode{
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+    
+   
+}
+
+
+.donate-plan-parentnode .same{
+    border-radius: 5px;
+    padding: 20px;
+    background: white;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.same-tilte, .same-description{
+    margin-bottom: 20px;
+}
+
+.same img{
+    margin-bottom: 20px;
+}
+
+#first{
+background-color: aqua;
+}
+#second{
+    background-color: coral;
+
+}
+
+#third{
+    background-color: cadetblue;
+
+}
+
+.contribute-parentnode{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.contribute-parentnode img{
+    width: 50%;
+    border-radius: 5px;
+}
+
+.contribute-title, .contribute-description{
+    margin-bottom: 40px;
+}
+
+.contribute-title{
+    font-size: 40px;
+}
+
+.survive-parentnode{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+
+}
+
+.survive-container{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.survive-parentnode img{
+    width: 50%;
+    border-radius: 5px;
+}
+
+.survive-title, .survive-description{
+    margin-bottom: 20px;
+}
+
+.update{
+    text-align: center;
+}
+
+.subscribe-container{
+    margin-top: 100px;
+    text-align: center;
+    background-color: aqua;
+    padding: 100px 100px;
+    border-radius: 5px;
+}
+
+.subscribe-container .subscribe, .text{
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.subscribe-container .subscribe{
+    background-color: #FF5733;
+    color: whitesmoke;
+}
+
+.update-title{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.update-container{
+
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+.footer-area{
+    text-align: center;
+    margin: 100px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 30px;
+    padding: 100px;
+    
+}
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+
+
+
